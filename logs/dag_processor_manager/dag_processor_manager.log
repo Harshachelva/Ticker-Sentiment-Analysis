@@ -1,0 +1,381 @@
+[2025-04-06T18:13:55.786+0000] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2025-04-06T18:13:55.787+0000] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2025-04-06T18:13:55.787+0000] {manager.py:489} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-04-06T18:13:55.788+0000] {manager.py:759} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:13:56.009+0000] {manager.py:762} INFO - There are 1 files in /opt/airflow/dags
+[2025-04-06T18:13:56.220+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/pipeline1_dag.py    164  0.10s             0           0
+================================================================================
+[2025-04-06T18:13:59.427+0000] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2025-04-06T18:14:18.162+0000] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2025-04-06T18:14:18.167+0000] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2025-04-06T18:14:18.168+0000] {manager.py:489} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-04-06T18:14:18.168+0000] {manager.py:759} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:14:18.188+0000] {manager.py:762} INFO - There are 1 files in /opt/airflow/dags
+[2025-04-06T18:14:18.364+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/pipeline1_dag.py    164  0.08s             0           0
+================================================================================
+[2025-04-06T18:14:48.372+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/pipeline1_dag.py                           1           0  1.95s           2025-04-06T18:14:20
+================================================================================
+[2025-04-06T18:15:18.382+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/pipeline1_dag.py                           1           0  0.78s           2025-04-06T18:14:51
+================================================================================
+[2025-04-06T18:15:49.427+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/pipeline1_dag.py                           1           0  0.54s           2025-04-06T18:15:21
+================================================================================
+[2025-04-06T18:16:19.581+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/pipeline1_dag.py                           1           0  3.70s           2025-04-06T18:15:56
+================================================================================
+[2025-04-06T18:16:49.924+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/pipeline1_dag.py                           1           0  3.09s           2025-04-06T18:16:29
+================================================================================
+[2025-04-06T18:17:20.657+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/pipeline1_dag.py                           1           0  0.70s           2025-04-06T18:17:00
+================================================================================
+[2025-04-06T18:17:50.925+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/pipeline1_dag.py                           1           0  0.80s           2025-04-06T18:17:31
+================================================================================
+[2025-04-06T18:18:21.146+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/pipeline1_dag.py                           1           0  0.19s           2025-04-06T18:18:02
+================================================================================
+[2025-04-06T18:18:51.546+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                           PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/pipeline1_dag.py                           1           0  2.37s           2025-04-06T18:18:35
+================================================================================
+[2025-04-06T18:18:55.155+0000] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2025-04-06T18:20:29.428+0000] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2025-04-06T18:20:29.429+0000] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2025-04-06T18:20:29.429+0000] {manager.py:489} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2025-04-06T18:20:29.431+0000] {manager.py:759} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:20:29.439+0000] {manager.py:762} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T18:20:29.605+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  ----------
+/opt/airflow/dags/ticker_sentiment_analysis.py    164  0.09s             0           0
+/opt/airflow/dags/pipeline1_dag.py                167  0.08s             0           0
+================================================================================
+[2025-04-06T18:20:59.728+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  1.15s           2025-04-06T18:20:30
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.74s           2025-04-06T18:20:30
+================================================================================
+[2025-04-06T18:21:29.950+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.47s           2025-04-06T18:21:16
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.73s           2025-04-06T18:21:01
+================================================================================
+[2025-04-06T18:22:00.183+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  3.66s           2025-04-06T18:21:51
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.40s           2025-04-06T18:21:32
+================================================================================
+[2025-04-06T18:22:30.350+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  2.26s           2025-04-06T18:22:23
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  3.80s           2025-04-06T18:22:06
+================================================================================
+[2025-04-06T18:23:00.552+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  1.58s           2025-04-06T18:22:55
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.56s           2025-04-06T18:22:36
+================================================================================
+[2025-04-06T18:23:30.785+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.51s           2025-04-06T18:23:26
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.36s           2025-04-06T18:23:07
+================================================================================
+[2025-04-06T18:24:01.242+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.46s           2025-04-06T18:23:56
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.29s           2025-04-06T18:23:38
+================================================================================
+[2025-04-06T18:24:32.160+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  1.14s           2025-04-06T18:24:28
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.43s           2025-04-06T18:24:08
+================================================================================
+[2025-04-06T18:25:02.571+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  2.75s           2025-04-06T18:25:01
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.91s           2025-04-06T18:24:40
+================================================================================
+[2025-04-06T18:25:29.666+0000] {manager.py:759} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:25:29.738+0000] {manager.py:762} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T18:25:32.890+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                         PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py    292  1.06s             1           0  2.75s           2025-04-06T18:25:01
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  1.76s           2025-04-06T18:25:12
+================================================================================
+[2025-04-06T18:26:02.949+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  2.39s           2025-04-06T18:25:34
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.80s           2025-04-06T18:25:43
+================================================================================
+[2025-04-06T18:26:33.183+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  1.02s           2025-04-06T18:26:05
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.33s           2025-04-06T18:26:14
+================================================================================
+[2025-04-06T18:27:03.884+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.42s           2025-04-06T18:26:36
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.36s           2025-04-06T18:26:44
+================================================================================
+[2025-04-06T18:27:33.928+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.53s           2025-04-06T18:27:07
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  1.06s           2025-04-06T18:27:16
+================================================================================
+[2025-04-06T18:28:04.171+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  2.70s           2025-04-06T18:27:40
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  2.38s           2025-04-06T18:27:49
+================================================================================
+[2025-04-06T18:28:34.606+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  1.12s           2025-04-06T18:28:12
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.37s           2025-04-06T18:28:19
+================================================================================
+[2025-04-06T18:29:05.082+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  1.08s           2025-04-06T18:28:43
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.47s           2025-04-06T18:28:50
+================================================================================
+[2025-04-06T18:29:35.797+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.48s           2025-04-06T18:29:14
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.36s           2025-04-06T18:29:20
+================================================================================
+[2025-04-06T18:30:06.089+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.62s           2025-04-06T18:29:45
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.41s           2025-04-06T18:29:51
+================================================================================
+[2025-04-06T18:30:29.911+0000] {manager.py:759} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:30:29.976+0000] {manager.py:762} INFO - There are 2 files in /opt/airflow/dags
+[2025-04-06T18:30:36.332+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  1.44s           2025-04-06T18:30:17
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  1.24s           2025-04-06T18:30:22
+================================================================================
+[2025-04-06T18:31:06.553+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  3.30s           2025-04-06T18:30:51
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.26s           2025-04-06T18:30:53
+================================================================================
+[2025-04-06T18:31:36.951+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.85s           2025-04-06T18:31:22
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.19s           2025-04-06T18:31:23
+================================================================================
+[2025-04-06T18:32:07.691+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  1.32s           2025-04-06T18:31:54
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.27s           2025-04-06T18:31:54
+================================================================================
+[2025-04-06T18:32:38.227+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.48s           2025-04-06T18:32:25
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.14s           2025-04-06T18:32:25
+================================================================================
+[2025-04-06T18:33:08.703+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.28s           2025-04-06T18:32:55
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.13s           2025-04-06T18:32:55
+================================================================================
+[2025-04-06T18:33:39.148+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.50s           2025-04-06T18:33:26
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.16s           2025-04-06T18:33:26
+================================================================================
+[2025-04-06T18:34:09.548+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.23s           2025-04-06T18:33:56
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.13s           2025-04-06T18:33:56
+================================================================================
+[2025-04-06T18:34:40.050+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.35s           2025-04-06T18:34:27
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.13s           2025-04-06T18:34:26
+================================================================================
+[2025-04-06T18:35:10.510+0000] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ticker_sentiment_analysis.py                           1           0  0.46s           2025-04-06T18:34:57
+/opt/airflow/dags/pipeline1_dag.py                                       1           0  0.13s           2025-04-06T18:34:57
+================================================================================
+[2025-04-06T18:35:30.055+0000] {manager.py:759} INFO - Searching for files in /opt/airflow/dags
+[2025-04-06T18:35:30.067+0000] {manager.py:762} INFO - There are 2 files in /opt/airflow/dags
